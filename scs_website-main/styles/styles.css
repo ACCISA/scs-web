@@ -156,7 +156,6 @@ nav a:hover {
     color: white;
     position: absolute;
     left: 2%;
-    width: 10000000px;
     height: 10px;
 
 }
@@ -350,7 +349,7 @@ Everything will be offset 3px from the inner borders, but you will now have a bo
     opacity: 99%;
 }
 
-.contact-us-section{
+#contact-us-section{
     width: 100%;
     height: 100%;
     opacity: 99%;
