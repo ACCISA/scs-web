@@ -116,7 +116,18 @@ nav a:hover {
     justify-content: space-evenly;
     height: 100px;
     padding-bottom: 50%;
+    background-color: #2E2740ff;;
     box-shadow: rgba(0, 0, 0, 0.56) 10px 44px 140px 14px;
+}
+
+p{
+    color: white;
+}
+
+.about-us-menu-text {
+    /* display: flex; */
+    margin-top: 20%;
+
 }
 
 .about-us-menu {
