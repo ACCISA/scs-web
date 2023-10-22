@@ -7,3 +7,11 @@ const calendarShow = () => {
         document.getElementById("holder").style.display = 'none'
     }
 }
+
+const handleLeft = () => {
+
+}
+
+const handleRight = () => {
+
+}

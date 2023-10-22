@@ -1,26 +1,46 @@
 .event_title{
     display: flex;
-    justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
     font-size: 45px;
+    background-color: red;
+    height: 100vh;
+    background-image: url('/assets/csgames2.jpg');
+    background-size: cover;
+    justify-content: space-around;
+    border-bottom: 8px solid #A78AE1;
 }
 
-.event_title > p {
-    margin-top: 1em;
+.view_pic{
+    width: 3em;
+    height: 3em;
+    color: #fff;
+    cursor: pointer;
+}
+
+.event_holder{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.event_title > div > p {
     color: black;
     font-size: 20px;
+    color: #fff;
 }
 
 .scs_span{
     color: #A78AE1;
-    font-size: 45px;
+    font-size: 65px;
     font-weight: 700;
 }
 
 .scs_h1{
-    font-size: 45px;
+    font-size: 65px;
     font-weight: 700;
+    color: #fff;
 }
 
 .dropdown_icon{
