@@ -31,10 +31,12 @@
 }
 
 .theme-showcase{
-    border-top: 2px solid #A78AE1;
-    border-bottom: 2px solid #A78AE1;
     margin: 4em;
     padding: 2em;
+    background-color: #d1c5ed;
+    border: 2px solid #A78AE1;
+    border-radius: 25px;
+    box-shadow: 5px 10px #A78AE1;
 }
 
 .calender-header{
